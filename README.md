@@ -1,1 +1,3 @@
-# Belarus-HIV
+# Phylodynamics Analysis of HIV Epidemic History in Belarus in 1987-2022
+
+This paper presents the first systematic genomic epidemiology analysis of the HIV epidemic in Belarus, an Eastern European country that, like much of Eastern Europe and the Post-Soviet region, has been largely understudied in relation to HIV epidemics. HIV sequences collected nationwide between January 2018 and May 2022 were analyzed using phylogenetic and phylodynamic methods. The findings reveal two distinct epidemic waves spanning 1997–2005 and 2009–2018, each driven by different dominant modes of transmission. The study also identifies potential introduction and intra-country transmission routes, emphasizing the pivotal role of the capital city and eastern industrial hubs in shaping the epidemic’s trajectory. This work addresses an important gap in understanding HIV dynamics in Eastern Europe.
