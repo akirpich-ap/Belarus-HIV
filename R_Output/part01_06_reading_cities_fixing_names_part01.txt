@@ -1,0 +1,41 @@
+ [1] "belarus_longitude_lattitude"      "belarus_longitude_lattitude_path" "belarus_names_cyrillic"           "belarus_names_cyrillic_path"      "belriem_data"                    
+ [6] "belriem_data_path"                "discrepancy_with_fasta"           "names_from_fasta"                 "sequences_fasta"                  "sequences_fasta_path"            
+current_discrepancy in fasta ->  HIV_1060_2019-01-08  value in  belriem_data$strain  HIV_1060а  >>> changed to  HIV_1060 with belriem_data$date  2019-01-08 
+current_discrepancy in fasta ->  HIV_1098_2019-01-31  value in  belriem_data$strain  HIV_1098а  >>> changed to  HIV_1098 with belriem_data$date  2019-01-31 
+current_discrepancy in fasta ->  HIV_1153_2019-06-27  value in  belriem_data$strain  HIV_1153а  >>> changed to  HIV_1153 with belriem_data$date  2019-06-27 
+current_discrepancy in fasta ->  HIV_1228_2019-11-29  value in  belriem_data$strain  HIV_1228а  >>> changed to  HIV_1228 with belriem_data$date  2019-11-29 
+current_discrepancy in fasta ->  HIV_1364_2022-02-17  value in  belriem_data$strain  HIV_1364а  >>> changed to  HIV_1364 with belriem_data$date  2022-02-17 
+current_discrepancy in fasta ->  HIV_1370_2022-03-23  value in  belriem_data$strain  HIV_1370а  >>> changed to  HIV_1370 with belriem_data$date  2022-03-23 
+current_discrepancy in fasta ->  HIV_1371_2022-03-23  value in  belriem_data$strain  HIV_1371а  >>> changed to  HIV_1371 with belriem_data$date  2022-03-23 
+current_discrepancy in fasta ->  HIV_889_2018-11-02  value in  belriem_data$strain  HIV_889а  >>> changed to  HIV_889 with belriem_data$date  2018-11-02 
+current_discrepancy in fasta ->  HIV_915_2018-06-27  value in  belriem_data$strain  HIV_915а  >>> changed to  HIV_915 with belriem_data$date  2018-06-27 
+current_discrepancy in fasta ->  HIV_916_2018-06-27  value in  belriem_data$strain  HIV_916а  >>> changed to  HIV_916 with belriem_data$date  2018-06-27 
+current_discrepancy in fasta ->  HIV_960_2019-03-22  value in  belriem_data$strain  HIV_960а  >>> changed to  HIV_960 with belriem_data$date  2019-03-22 
+current_discrepancy in fasta ->  RES_1035_2022-02-22  value in  belriem_data$strain  RES_1035с  >>> changed to  RES_1035 with belriem_data$date  2022-02-22 
+current_discrepancy in fasta ->  RES_1052_2020-06-10  value in  belriem_data$strain  RES_1052а  >>> changed to  RES_1052 with belriem_data$date  2020-06-10 
+current_discrepancy in fasta ->  RES_1070_2020-09-04  value in  belriem_data$strain  RES_1070а  >>> changed to  RES_1070 with belriem_data$date  2020-09-04 
+current_discrepancy in fasta ->  RES_1084_2020-01-14  value in  belriem_data$strain  RES_1084а  >>> changed to  RES_1084 with belriem_data$date  2020-01-14 
+current_discrepancy in fasta ->  RES_1085_2018-11-29  value in  belriem_data$strain  RES_1085а  >>> changed to  RES_1085 with belriem_data$date  2018-11-29 
+current_discrepancy in fasta ->  RES_1160_2019-03-07  value in  belriem_data$strain  RES_1160а  >>> changed to  RES_1160 with belriem_data$date  2019-03-07 
+current_discrepancy in fasta ->  RES_1177_2020-04-07  value in  belriem_data$strain  RES_1177а  >>> changed to  RES_1177 with belriem_data$date  2020-04-07 
+current_discrepancy in fasta ->  RES_1179_2019-02-27  value in  belriem_data$strain  RES_1179а  >>> changed to  RES_1179 with belriem_data$date  2019-02-27 
+current_discrepancy in fasta ->  RES_1246_2019-10-16  value in  belriem_data$strain  RES_1246а  >>> changed to  RES_1246 with belriem_data$date  2019-10-16 
+current_discrepancy in fasta ->  RES_1287_2021-06-17  value in  belriem_data$strain  RES_1287а  >>> changed to  RES_1287 with belriem_data$date  2021-06-17 
+current_discrepancy in fasta ->  RES_1289_2021-06-17  value in  belriem_data$strain  RES_1289а  >>> changed to  RES_1289 with belriem_data$date  2021-06-17 
+current_discrepancy in fasta ->  RES_1475_2022-02-01  value in  belriem_data$strain  RES_1475а  >>> changed to  RES_1475 with belriem_data$date  2022-02-01 
+current_discrepancy in fasta ->  RES_1500_2022-03-24  value in  belriem_data$strain  RES_1500а  >>> changed to  RES_1500 with belriem_data$date  2022-03-24 
+current_discrepancy in fasta ->  RES_1515_2021-02-02  value in  belriem_data$strain  RES_1515а  >>> changed to  RES_1515 with belriem_data$date  2021-02-02 
+current_discrepancy in fasta ->  RES_1599_2021-09-02  value in  belriem_data$strain  RES_1599а  >>> changed to  RES_1599 with belriem_data$date  2021-09-02 
+current_discrepancy in fasta ->  RES_1671_2021-02-05  value in  belriem_data$strain  RES_1671а  >>> changed to  RES_1671 with belriem_data$date  2021-02-05 
+current_discrepancy in fasta ->  RES_1674_2020-12-24  value in  belriem_data$strain  RES_1674а  >>> changed to  RES_1674 with belriem_data$date  2020-12-24 
+current_discrepancy in fasta ->  RES_1686_2021-06-17  value in  belriem_data$strain  RES_1686а  >>> changed to  RES_1686 with belriem_data$date  2021-06-17 
+current_discrepancy in fasta ->  RES_1745_2022-03-22  value in  belriem_data$strain  RES_1745а  >>> changed to  RES_1745 with belriem_data$date  2022-03-22 
+current_discrepancy in fasta ->  RES_1747_2021-08-10  value in  belriem_data$strain  RES_1747а  >>> changed to  RES_1747 with belriem_data$date  2021-08-10 
+current_discrepancy in fasta ->  RES_1777_2021-07-07  value in  belriem_data$strain  RES_1777а  >>> changed to  RES_1777 with belriem_data$date  2021-07-07 
+current_discrepancy in fasta ->  RES_1789_2021-06-23  value in  belriem_data$strain  RES_1789а  >>> changed to  RES_1789 with belriem_data$date  2021-06-23 
+current_discrepancy in fasta ->  RES_1797_2021-09-15  value in  belriem_data$strain  RES_1797а  >>> changed to  RES_1797 with belriem_data$date  2021-09-15 
+current_discrepancy in fasta ->  RES_1842_2022-01-27  value in  belriem_data$strain  RES_1842а  >>> changed to  RES_1842 with belriem_data$date  2022-01-27 
+current_discrepancy in fasta ->  RES_1844_2021-12-20  value in  belriem_data$strain  RES_1844а  >>> changed to  RES_1844 with belriem_data$date  2021-12-20 
+current_discrepancy in fasta ->  RES_1850_2022-03-30  value in  belriem_data$strain  RES_1850а  >>> changed to  RES_1850 with belriem_data$date  2022-03-30 
+[1] 37
+[1] 37

@@ -1,0 +1,20 @@
+
+01
+adjecency_matrix.xlsx
+adjecency_matrix_directed.xlsx
+
+04
+final_predictitons.xlsx
+
+06
+hiv_msa_earlier_seq.fasta
+RES Database (w sequences)_loc_fixed.xlsx
+Belarus_long_lat_gpt_final.xlsx
+Belarus_names_final_cyrillic.xlsx
+
+07
+hiv_msa_earlier_seq.fasta
+
+08
+zabolevajemost_HIV_fix4.xlsx
+

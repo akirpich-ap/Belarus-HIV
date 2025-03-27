@@ -1,0 +1,2 @@
+python ./attribute_assortativity.py division_ascii.y -n ../R_Output/part01_06_reading_cities_fixing_names_belriem_data_plus_coordinates_fixed.csv -e ../R_Output/part01_10_reading_cities_fixing_names_microbetrace_output_subset_790_fixed.csv -o ../results/assortativity_region.out
+python ./attribute_assortativity.py location_ascii -n ../R_Output/part01_06_reading_cities_fixing_names_belriem_data_plus_coordinates_fixed.csv -e ../R_Output/part01_10_reading_cities_fixing_names_microbetrace_output_subset_790_fixed.csv -o ../results/assortativity_city.out
